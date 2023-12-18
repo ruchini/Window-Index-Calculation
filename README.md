@@ -21,11 +21,12 @@ This file contains a Node.js script that takes user inputs for `noOfPeriods` and
 
 2. **Clone the Repository:**
    Clone or download this repository to your local machine.
+   https://git@github.com:ruchini/Window-Index-Calculation.git
 
-3. **Navigate to the Directory:**
+4. **Navigate to the Directory:**
    Open a terminal or command prompt and navigate to the directory containing `test_withUserInputs.js`.
 
-4. **Run the Script:**
+5. **Run the Script:**
    Execute the script using the following command:
 
    ```bash
